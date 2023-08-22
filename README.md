@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaspar Sio</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on [Miranda Hotel](https://gasparsio.github.io/miranda-hotel/)
+- 🔭 I’m currently working on [Miranda Hotel Project](https://gasparsio.github.io/miranda-hotel/)
 
 - 👨‍💻 All of my projects are available at [https://gasparsio.github.io/portfolio/](https://gasparsio.github.io/portfolio/)
 
