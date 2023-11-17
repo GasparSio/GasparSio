@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on - https://miranda-hotel-weld.vercel.app<br><br>- 👨‍💻 All of my projects are available at https://portfolio-gaspar-sio.vercel.app<br><br>- 📫 How to reach me: sio.gaspar@gmail.com</p>
+<p align="left">- 🔭 I’m currently working on - https://miranda-hotel-gaspar-sio.vercel.app/<br><br>- 👨‍💻 All of my projects are available at https://portfolio-gaspar-sio.vercel.app<br><br>- 📫 How to reach me: sio.gaspar@gmail.com</p>
 
 ###
 
