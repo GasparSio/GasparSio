@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Gaspar Sio. I'm a passionate frontend developer.</h2>
+<h2 align="center">Hi 👋! My name is Gaspar Sio. I'm a passionate Fullstack developer.</h2>
 
 ###
 
