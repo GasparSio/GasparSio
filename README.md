@@ -1,8 +1,5 @@
 <h2 align="center">Hi 👋! My name is Gaspar Sio. I'm a passionate Fullstack developer.</h2>
 
-###
-
-<p align="left">- 🔭 I’m currently working on - https://tinyurl.com/hotel-miranda-php/<br><br>- 👨‍💻 All of my projects are available at https://portfolio-gaspar-sio.vercel.app<br><br>- 📫 How to reach me: sio.gaspar@gmail.com</p>
 
 ###
 
